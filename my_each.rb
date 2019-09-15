@@ -1,3 +1,1 @@
-def my_each # put argument(s) here
-  # code here
-end
+def mustang = [1972, ]
